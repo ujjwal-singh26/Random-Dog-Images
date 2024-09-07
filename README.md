@@ -4,7 +4,7 @@ Welcome to the Random Dog Images project! This web application showcases adorabl
 <br>
 <br>
 🌟 Features
-<br>
+<br> 
 Random Dog Images: Click a button to generate a new, random image of a dog.<br>
 User-Friendly Interface: Designed to be intuitive and easy to use for all dog lovers.<br>
 Responsive Design: The app is fully responsive, providing a great experience on both desktop and mobile devices.<br>
